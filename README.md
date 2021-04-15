@@ -6,6 +6,8 @@ Loop-mediated isothermal amplification (LAMP) is a DNA amplification technology 
 
 ## How to use
 
+You can download our binary file from **Release**, which can run directly on the Windows.
+
 ### Environmental configuration
 
 First you need to install the core code base [```RNAstructure6.1_command_line```](http://rna.urmc.rochester.edu/RNAstructure.html) 
