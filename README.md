@@ -1,5 +1,7 @@
 ## About this program 
 
+[![DOI](https://zenodo.org/badge/358175367.svg)](https://zenodo.org/badge/latestdoi/358175367)
+
 Loop-mediated isothermal amplification (LAMP) is a DNA amplification technology performed under isothermal conditions with high specificity, efficiency, and speed [Notomi T, Okayama H, Masubuchi H, Yonekawa T, Watanabe K, Amino N, Hase T: Loop-mediated isothermal amplification of DNA. Nucleic Acids Research 2000, 28:E63-e63, 28(12)]. In this work, we developed an extensible program, which is designed as a flexible tool for LAMP primer design, and it can meet various design requirements in a high-throughput informatics environment. Considering the characteristics of Golang, such as high running efficiency, native high concurrency and powerful fault-tolerant mechanism, our program is completely implemented in Golang to achieve high throughput analysis based on multithreading. Besides, Golang can be deployed on each major operating system (Windows, Linux, Mac), so this program can be easily switched between different platforms.
 
 ![image](./images/fig1.png)
